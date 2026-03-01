@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687535492991",
+    "project_id": "dashboard-3eaba",
+    "storage_bucket": "dashboard-3eaba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687535492991:android:d3e5f63fb1a43e63b9d44a",
+        "android_client_info": {
+          "package_name": "com.assignment.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZO9-_eIzpMiPX-qVqhpTC8XF2x9tWZwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
